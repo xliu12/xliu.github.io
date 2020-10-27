@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Xiao Liu's Page
 
-You can use the [editor on GitHub](https://github.com/xliu12/xliu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD student in [Quantitative Psyhology](https://psychology.nd.edu/graduate-programs/areas-of-study/quantitative/) at the University of Notre Dame.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
